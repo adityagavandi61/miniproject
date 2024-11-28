@@ -1,9 +1,5 @@
 # Mini Project
 
-## Installation
-
-To run this project locally, follow the steps below:
-
 ### Prerequisites
 
 - Python 3.x
